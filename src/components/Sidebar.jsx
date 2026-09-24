@@ -24,6 +24,11 @@ function Sidebar() {
       icon: LayoutDashboard
     },
     {
+      name: "Từ vựng",
+      path: "/vocabulary",
+      icon: Languages
+    },
+    {
       name: "Listening",
       path: "/listening",
       icon: Headphones
@@ -43,11 +48,8 @@ function Sidebar() {
       path: "/writing",
       icon: PenLine
     },
-    {
-      name: "Từ vựng",
-      path: "/vocabulary",
-      icon: Languages
-    },
+    
+    
     {
       name: "Quiz",
       path: "/quiz",
